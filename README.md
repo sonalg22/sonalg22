@@ -1,6 +1,7 @@
-# About Me!
+## Hey there :)
 
-### Hi, my name is Sonal. As a software developer, I enjoy project-based learning, experimenting with new back end technologies, AI/ML models, and full stack applications. I'm always looking for creative ways to make things more efficient, useful, and a little more fun through projects that blend utility with a bit of delight.
+### My name is Sonal, and I'm a software developer! 
+I enjoy project-based learning, experimenting with new back end technologies, AI/ML models, and full stack applications. I'm always looking for creative ways to make things more efficient, useful, and a little more fun through projects that blend utility with a bit of delight.
 
 🌻 I’m currently starting to work on a new job saver chrome extension! This is so users can see job stats if they're actively searching for jobs.<br>
 🌱 I’m currently learning Godot and game dev (check out the Knight Runner)<br>
@@ -8,7 +9,7 @@
 🪴 Pronouns: she/her<br>
 🌙 Fun fact: I love dance!<br>
 
-## Skills & Tools
+### Skills & Tools
 
 ### Languages 
 
@@ -25,7 +26,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
-### Other Skills & Tools
+### Tech Stacks
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102B3F?style=flat-square&logo=scikit-learn)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-EC1C24?style=flat-square&logo=openai&logoColor=white)
