@@ -23,7 +23,6 @@ I enjoy project-based learning, experimenting with new back end technologies, AI
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ### Tech Stacks
