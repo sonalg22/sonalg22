@@ -1,10 +1,10 @@
 ## Hey there :)
 
 ### My name is Sonal, and I'm a software developer! 
-I enjoy project-based learning, experimenting with new back end technologies, AI/ML models, and full stack applications. I'm always looking for creative ways to make things more efficient, useful, and a little more fun through projects that blend utility with a bit of delight.
+I enjoy project-based learning, experimenting with new back end technologies, UI/UX design, AI/ML models, and full stack applications. I'm always looking for creative ways to make things more efficient, useful, and a little more fun through projects that blend utility with delight.
 
-🌻 I’m currently starting to work on a new job saver chrome extension! This is so users can see job stats if they're actively searching for jobs.<br>
-🌱 I’m currently learning Godot and game dev (check out the Knight Runner)<br>
+🌻 I’m currently starting to work on an AI resume reviewer to give insights for improvements on certain resumes!<br>
+🌱 I’m currently learning Godot/Python for game dev (check out the Knight Runner and Apple Catcher)<br>
 🌞 How to reach me: linkedin (sonal-gupta-csf)<br>
 🪴 Pronouns: she/her<br>
 🌙 Fun fact: I love dance!<br>
